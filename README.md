@@ -23,12 +23,13 @@ Please ensure you have Visusal studio code installed and git installed. If not h
 
 Steps:​
 <ol>
-  <li>Clone boss repo (Repo link)​</li>
-  <li>Initialize my git repo.​</li>
-  <li>Add a gitignore file to my repo.​</li>
-  <li>Exclude the notes.txt file and the secret.txt file.​</li>
-  <li>Add all files to git.​</li>
-  <li>Now create a new commit and write a message.</li>
+  <li>Clone boss repo (You are in it right now?</li>
+  <li>Check status of git when cloned</li>
+  <li>Initialize my git repo if git not ready</li>
+  <li>Add a gitignore file to my repo​</li>
+  <li>Exclude the secret.txt file​</li>
+  <li>Add all files to git​</li>
+  <li>Now create a new commit and write a message</li>
 </ol>
 
 
@@ -51,15 +52,15 @@ Steps:​
 
 Steps:​
 <ol>
-  <li>Checkout the main branch.​</li>
+  <li>Checkout the main branch</li>
   <li>Here comes a pick your adventure:​</li>
     <ul>
       <li>Merge changes from your branch using command line. (Slightly harder)​</li>
       <li>OR merge using VSCode IDE. (Easier)​</li>
     </ul>
-  <li>Ensure the code you added and erased are now in main branch.​</li>
-  <li>Check status.​</li>
-  <li>Erase feature branch now that everything has been merged.</li>
+  <li>Ensure the code you added and erased are now in main branch</li>
+  <li>Check status</li>
+  <li>Erase feature branch now that everything has been merged</li>
 </ol>
 
 
@@ -67,7 +68,7 @@ Steps:​
 
 Steps:​
 <ul>
-  <li>Remove all changes back to what the original Main/Master was.</li>
+  <li>Remove all changes back to what the original Main/Master was</li>
 </ul>
 
 
