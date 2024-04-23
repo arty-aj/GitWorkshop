@@ -23,7 +23,7 @@ Please ensure you have Visusal studio code installed and git installed. If not h
 
 Steps:​
 <ol>
-  <li>Clone boss repo (You are in it right now?</li>
+  <li>Clone boss repo (You are in it right now)</li>
   <li>Check status of git when cloned</li>
   <li>Initialize my git repo if git not ready</li>
   <li>Add a gitignore file to my repo​</li>
