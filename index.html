@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <br>
+    <br>
+    <form id="additionForm">
+        <label for="num1">number 1</label>
+        <input type="text" id="num1" name="num1"><br>
+        <p> <strong>+</strong></p>
+        <label for="num1">number 2</label>
+        <input type="text" id="num2" name="num2"><br><br>
+        <input type="submit" value="Submit" 
+            style="font-size: 16px; background-color: #8ac6ff; 
+                    border-radius: 5px;"><br>
+    </form>
+    <br>
+    <br>
+
+    <div id="result"></div>
+
+    <script>
+        document.getElementById("additionForm").addEventListener("submit", function(event) {
+            event.preventDefault(); 
+            
+            var num1 = parseFloat(document.getElementById("num1").value);
+            var num2 = parseFloat(document.getElementById("num2").value);
+            
+            var result = "Hello world!"
+            
+            document.getElementById("result").innerText = "The sum is: " + result;
+        });
+    </script>
+
+</body>
+</html>
