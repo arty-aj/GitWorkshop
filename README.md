@@ -40,8 +40,8 @@ Steps:​
   <li>Create a branch from main, give it your name of choice​</li>
   <li>Checkout the branch you just created​</li>
   <li>Check the status of git, ensure you are on your branch​</li>
-  <li>Add this to X file on line Y. (Add code snippet here)​</li>
-  <li>Delete lines X on file Y​</li>
+  <li>Add the code in file, codeToAdd.txt, on line 34 of index.html​</li>
+  <li>Delete line 33 on index.html file</li>
   <li>Add changes to git​</li>
   <li>Commit changes with a message​</li>
   <li>Check the status</li>
@@ -58,7 +58,7 @@ Steps:​
       <li>Merge changes from your branch using command line. (Slightly harder)​</li>
       <li>OR merge using VSCode IDE. (Easier)​</li>
     </ul>
-  <li>Ensure the code you added and erased are now in main branch</li>
+  <li>Ensure the changes made are now in main branch</li>
   <li>Check status</li>
   <li>Erase feature branch now that everything has been merged</li>
 </ol>
