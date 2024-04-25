@@ -53,11 +53,7 @@ Steps:​
 Steps:​
 <ol>
   <li>Checkout the main branch</li>
-  <li>Here comes a pick your adventure:​</li>
-    <ul>
-      <li>Merge changes from your branch using command line. (Slightly harder)​</li>
-      <li>OR merge using VSCode IDE. (Easier)​</li>
-    </ul>
+  <li>Merge the changes from your branch to main branch​</li>
   <li>Ensure the changes made are now in main branch</li>
   <li>Check status</li>
   <li>Erase feature branch now that everything has been merged</li>
